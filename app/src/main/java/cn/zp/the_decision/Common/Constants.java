@@ -8,6 +8,6 @@ import java.util.ArrayList;
 
 public class Constants {
     public static final String[] DEFAULT_OPTION_NAMES = new String[]{
-            "麻辣烫","鱼粉","饭","豆花"
+            "麻辣烫","鱼粉","饭","豆花","鸡排","烧饼","粥"
     };
 }
