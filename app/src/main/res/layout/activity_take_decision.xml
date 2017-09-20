@@ -17,10 +17,12 @@
         android:textColor="@android:color/black"
         android:layout_centerInParent="true"/>
 
-    <android.support.v7.widget.AppCompatButton
+    <info.hoang8f.widget.FButton
+        android:id="@+id/btn_control"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="开始"
+        android:textColor="@android:color/white"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/tv_options_show"
         android:layout_marginTop="10dp"

@@ -28,4 +28,6 @@ dependencies {
     compile 'com.truizlop.fabreveallayout:library:1.0.0'
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:design:26.0.0-alpha1'
+    compile project(':SlidingUpPane')
+    compile project(':FlatButton')
 }

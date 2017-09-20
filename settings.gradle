@@ -1,1 +1,1 @@
-include ':app', ':SlidingUpPane'
+include ':app', ':SlidingUpPane', ':FlatButton'
